@@ -27,14 +27,6 @@ export default function Page() {
             >
               <span>Log in</span> <ArrowRightIcon className="w-5 md:w-6" />
             </Link>
-
-            <Link
-              href="/dashboard"
-              className="flex items-center gap-2 self-start rounded-lg border border-gray-200 px-6 py-3 text-sm font-medium text-gray-700 transition-colors hover:bg-gray-100 md:text-base"
-            >
-              <span>Open dashboard</span>
-              <ArrowRightIcon className="w-5 md:w-6" />
-            </Link>
           </div>
         </div>
         <div className="flex items-center justify-center p-6 md:w-3/5 md:px-28 md:py-12">
